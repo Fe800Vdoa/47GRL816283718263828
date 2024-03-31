@@ -16,21 +16,7 @@ game.StarterGui:SetCore("SendNotification", {
 	Duration = N.Duration
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/SuHusYfY-eG6Tay6GWYAU38LuckyBlocky/main/SujsvKaueha77TH7e6staaLuckyBlock"))()
-end
-
---- Lumber Tycoon 2
-
-local PlaceID = game.PlaceId
-if PlaceID == 13822889 then
-
-game.StarterGui:SetCore("SendNotification", {
-	Title = N.Titulo,
-	Text = N.Description,
-	Duration = N.Duration
-})
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/kJw7HeuJe8Hs8Hs886LumberTycoon/main/iHaubshaHy67527282LumberTycoon"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/92LB92929281937921/main/92LB92298281827"))()
 end
 
 --- Break In 2
@@ -45,7 +31,7 @@ game.StarterGui:SetCore("SendNotification", {
 	Duration = N.Duration
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/HomeBreakIn2KnaishsuahUahuahs/main/HomeBreakIn2KjJbaiBUhuahauHIJj"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/63BI29228718287291/main/63HOMEBI28271939279282"))()
 end
 
 -- Dentro
@@ -59,5 +45,5 @@ game.StarterGui:SetCore("SendNotification", {
 	Duration = N.Duration
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/BreakInHistory2IhsgeuuGa72y7syaga7/main/BreakInHistory2iUaua7ahuaha7ahauauah7aha7ay"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/63BI29228718287291/main/63BI2828273928722"))()
 end
