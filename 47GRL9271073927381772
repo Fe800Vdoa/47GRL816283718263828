@@ -1,0 +1,63 @@
+local N = {
+ Titulo = "Executed : Harlen Hub",
+ Description = "Loading...",
+ Duration = 5
+}
+
+
+--- Lucky Block
+
+local PlaceID = game.PlaceId
+if PlaceID == 662417684 then
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = N.Titulo,
+	Text = N.Description,
+	Duration = N.Duration
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/SuHusYfY-eG6Tay6GWYAU38LuckyBlocky/main/SujsvKaueha77TH7e6staaLuckyBlock"))()
+end
+
+--- Lumber Tycoon 2
+
+local PlaceID = game.PlaceId
+if PlaceID == 13822889 then
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = N.Titulo,
+	Text = N.Description,
+	Duration = N.Duration
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/kJw7HeuJe8Hs8Hs886LumberTycoon/main/iHaubshaHy67527282LumberTycoon"))()
+end
+
+--- Break In 2
+-- Home
+
+local PlaceID = game.PlaceId
+if PlaceID == 13864661000 then
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = N.Titulo,
+	Text = N.Description,
+	Duration = N.Duration
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/HomeBreakIn2KnaishsuahUahuahs/main/HomeBreakIn2KjJbaiBUhuahauHIJj"))()
+end
+
+-- Dentro
+
+local PlaceID = game.PlaceId
+if PlaceID == 13864667823 then
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = N.Titulo,
+	Text = N.Description,
+	Duration = N.Duration
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/BreakInHistory2IhsgeuuGa72y7syaga7/main/BreakInHistory2iUaua7ahuaha7ahauauah7aha7ay"))()
+end
