@@ -1,20 +1,11 @@
-local N = {
- Titulo = "Executed : Harlen Hub",
- Description = "Loading...",
- Duration = 5
-}
-
-
 --- Lucky Block
 
 local PlaceID = game.PlaceId
 if PlaceID == 662417684 then
 
-game.StarterGui:SetCore("SendNotification", {
-	Title = N.Titulo,
-	Text = N.Description,
-	Duration = N.Duration
-})
+loadstring(game:HttpGet("https://pastebin.com/raw/LPLpYWGT"))()
+
+wait(1)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/92LB92929281937921/main/92LB92298281827"))()
 end
@@ -25,11 +16,9 @@ end
 local PlaceID = game.PlaceId
 if PlaceID == 13864661000 then
 
-game.StarterGui:SetCore("SendNotification", {
-	Title = N.Titulo,
-	Text = N.Description,
-	Duration = N.Duration
-})
+loadstring(game:HttpGet("https://pastebin.com/raw/LPLpYWGT"))()
+
+wait(1)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/63BI29228718287291/main/63HOMEBI28271939279282"))()
 end
@@ -39,11 +28,9 @@ end
 local PlaceID = game.PlaceId
 if PlaceID == 13864667823 then
 
-game.StarterGui:SetCore("SendNotification", {
-	Title = N.Titulo,
-	Text = N.Description,
-	Duration = N.Duration
-})
+loadstring(game:HttpGet("https://pastebin.com/raw/LPLpYWGT"))()
+
+wait(1)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/63BI29228718287291/main/63BI2828273928722"))()
 end
