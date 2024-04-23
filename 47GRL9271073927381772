@@ -8,6 +8,10 @@ loadstring(game:HttpGet("https://pastebin.com/raw/pkwzAxrh"))()
 wait(1)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/92LB92929281937921/main/92LB92298281827"))()
+
+getgenv().whscript = "Harlen Hub | Lucky Block"         --Change to the name of your script
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1232138182674350151/3VkPVg5S9C1tWdjFLSocllISW6dHP75lWPXndD_Ycb5oe7M4THmD9wg743j6ap4MoGER"  --Put your Webhook Url here
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/venoxhh/robloxuniversal/main/webhook_execution")))()
 end
 
 --- Break In 2
@@ -21,6 +25,10 @@ loadstring(game:HttpGet("https://pastebin.com/raw/pkwzAxrh"))()
 wait(1)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/63BI29228718287291/main/63HOMEBI28271939279282"))()
+
+getgenv().whscript = "Break In 2( Home )"         --Change to the name of your script
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1232218623888592906/1tElv-oWWzP8E-23W2Z5loqR4B_NeQAxt0rFoehVfmSGw7SHx5wtZSLaNM44teAIaYre"  --Put your Webhook Url here
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/venoxhh/robloxuniversal/main/webhook_execution")))()
 end
 
 -- Dentro
@@ -33,4 +41,8 @@ loadstring(game:HttpGet("https://pastebin.com/raw/pkwzAxrh"))()
 wait(1)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe800Vdoa/63BI29228718287291/main/63BI2828273928722"))()
+
+getgenv().whscript = "Break In 2( Partida )"         --Change to the name of your script
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1232218305327136788/h8S_wUA7QAr7YMBAH4-o3W2aDi4TWp7szqSkesSBKSRRW6gafUqaoeX9Vt8kmJQk12pG  --Put your Webhook Url here
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/venoxhh/robloxuniversal/main/webhook_execution")))()
 end
